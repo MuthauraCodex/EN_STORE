@@ -1,6 +1,28 @@
-Product;	Description;  	     Unit Price (KES);        Quantity;
+Bread
+400g
+16
+65
+Eggs
 
-Eggs		Kienyeji	     20 		      67
-Bread		400g,White 	     65                       24
-Sugar 		2Kg,Brown            413                      13
-Maize Flour     2Kg                  267                      37
+64
+16
+Sugar
+2Kg
+34
+217
+Maize Flour
+2Kg
+76
+290
+Socks
+Cotton,White
+9
+50
+Oranges
+
+56
+10
+Tissue Paper
+Jumbo Rolls
+56
+130
