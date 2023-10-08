@@ -5,7 +5,7 @@
 
 # Introduction
 ## The Project
-The system allows stores to manage their inventory with the goal of maximising their profit through operational efficiency. It facilitates keeping track of a store's inventory in real-time by allowing users to add new items, update quantities, search and view inventory levels. Future versions will also enable users to generate reports on sales, purchase orders, and other relevant data.
+The system allows small scale stores to manage their inventory with the goal of maximising their profit through operational efficiency. It facilitates keeping track of a store's inventory in real-time by allowing users to add new items, update quantities, search and view inventory levels. Future versions will also enable users to generate reports on sales, purchase orders, and other relevant data.
  
 ## The Context
 This project is a Portfolio Project, concluding the Specializations Course work in The ALX Software Engineering Programme.
@@ -18,30 +18,9 @@ This project is a Portfolio Project, concluding the Specializations Course work 
 This blog post gives a brief overview of the development of En_Store and a few personal reflections.
 [EN_STORE Blog post](https://medium.com/@Muthaura_K/en-store-inventory-management-system-289ace809b7f)
 
-# Preview
-The video below shows a sneak peek preview of our deployed landing page. Enjoy 🙂🙂🙂
-
-https://github.com/callewise/EN_Store/assets/111274197/9f567902-dac6-491e-a093-2595d1fc2b1d
-
 # Installation
-Stay tuned for Installation instructions.
+Kindly follow the demo video/tutoral file below to install and use EN_STORE 😃😃😃!
 
-# Architecture
-It is a single-page app whose architecture consists of three layers: the presentation layer, the application layer, and the data layer. 
-
-1. The presentation layer is responsible for handling user interactions and displaying information to the user. This layer includes the user interface (UI) components such as forms, tables, charts, and dashboards.
-
-2. The application layer handles the business logic of the system. This layer is responsible for processing user input and generating output based on the rules of the system. The application layer also interacts with the data layer to retrieve and update data.
-
-3. The data layer is responsible for storing and managing the data used by the system. This layer includes the database, which stores all the information about the inventory items, such as their names, descriptions, quantities, and prices.
-
-The diagram below is a simple illustration of how the layers interact within the architecture.
-![EN_STORE Web Architechture 101](https://github.com/callewise/EN_Store/assets/111274197/f4e6b43a-6396-4a42-85a4-142d6a5f6a0f)
-
-# Related projects
-* [AirBnB Clone](https://github.com/MuthauraCodex/AirBnB_clone_v4): a simple web app made in Python, Flask, and JQuery.
-
-* [Simple Shell](https://github.com/callewise/simple_shell): a command line interpreter that replicates the sh program.
 
 # License
 MIT License
